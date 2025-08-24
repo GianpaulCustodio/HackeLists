@@ -1,4 +1,4 @@
-# HackeLists 2025
+# HackeLists
 **HackeLists** es un generador de diccionarios de contraseñas en **Bash** desarrollado por **HackeMate 2025**.  
 Su objetivo es crear listas de contraseñas **realistas y seguras**, basadas en patrones que comúnmente utilizan las personas o empresas en la vida real.  
 
