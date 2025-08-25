@@ -14,7 +14,7 @@ cat << "EOF"
 |__/  |__/ \_______/ \_______/|__/  \__/ \_______/|________/|__/|_______/    \___/ |_______/ 
 EOF
 echo
-echo -e "\e[32m© HackeLists 2025 - Derechos Reservados\e[0m"
+echo -e "\e[32m© Hecho por HackeMate - Derechos Reservados\e[0m"
 echo "----------------------------------------------------"
 sleep 1
 
